@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ico.ico</file>
+        <file>jiachu.jpg</file>
+        <file>qinxie.jpg</file>
+    </qresource>
+</RCC>
